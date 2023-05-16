@@ -26,3 +26,9 @@
 </table>
 
 ---
+
+Mengklasifikasikan kematangan buah pisang menggunakan dataset dari kaggle dengan link "https://www.kaggle.com/datasets/jackshiels1/bananai?select=Banana_Condensed_Three_Cat" dengan menggunakan algoritma Support Vector Machine.
+
+## Tools
+- Google Colab
+- Jupyter Notebook
