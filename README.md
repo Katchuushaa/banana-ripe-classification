@@ -8,7 +8,7 @@
         <th>NIM</th>
     </tr>
     <tr>
-        <td>Ahmad Bintang Arfi</td>
+        <td>Ahmad Bintang Arif</td>
         <td>G6401201025</td>
     </tr>
     <tr>
