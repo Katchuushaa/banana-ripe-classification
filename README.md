@@ -34,7 +34,17 @@ Mengklasifikasikan kematangan buah pisang menggunakan dataset dari kaggle dengan
 
 ## Development
 
-This repo is using Python virtual environment.
+Clone the repository:
+```bash
+git clone https://github.com/Katchuushaa/banana-ripe-classification.git
+```
+
+Change to directory:
+```bash
+cd banana-ripe-classification
+```
+
+**This repo is using Python virtual environment.**
 
 Installing venv package:
 ```py
@@ -64,7 +74,4 @@ Installing packages
 pip install -r requirements.txt
 ```
 
-## Tools
-
-- Google Colab
-- Jupyter Notebook
+Full venv tutorial [here](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
